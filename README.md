@@ -24,7 +24,7 @@ Ensure you have the following software installed:
 ## Installation and Setup
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/Arduino-Server-Watch-Dog.git
+   git clone https://github.com/DiogoCosta2449/Arduino-Server-Watch-Dog.git
    ```
 
 2. Open the project in the **Arduino IDE**.
