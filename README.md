@@ -48,7 +48,7 @@ Ensure you have the following software installed:
 - [Diogo Costa] - Developer and Maintainer
 
 ## Acknowledgements
-This project is part of the **Applied Physics in Computing** course at **IPBeja - University of Technology and Management**.
+This project is part of the **Applied Physics in Computing** at **IPBeja - University of Technology and Management**.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
